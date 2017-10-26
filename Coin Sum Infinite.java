@@ -7,7 +7,7 @@ Note : Coins in set S will be unique. Expected space complexity of this problem 
 Example :
 
 Input : 
-	S = [1, 2, 3] 
+	S = [1, 2, 3]  
 	N = 4
 
 Return : 4
